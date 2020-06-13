@@ -8,13 +8,13 @@
 ---
 ## Usage
 
-使用には、 [tkinter](https://docs.python.org/ja/3/library/tkinter.html) をインストールしている必要があります。
+[tkinter](https://docs.python.org/ja/3/library/tkinter.html) をインストールしている必要があります。
 
 ```
 pip install tkinter
 ```
 
-[tkinter](https://docs.python.org/ja/3/library/tkinter.html) をインストールせずに当ツールを使い方は、 \dist\password\password.exe を起動してください。  
+[tkinter](https://docs.python.org/ja/3/library/tkinter.html) をインストールせずに当ツールを使用したい方は、 \dist\password\password.exe を起動してください。  
 しかし、保存の機能はご使用できません。
 
 
