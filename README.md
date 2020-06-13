@@ -1,4 +1,4 @@
-# Create-Password
+# Create Password
 
 ## introduction
 
