@@ -8,7 +8,7 @@
 ---
 ## Usage
 
-[tkinter](https://docs.python.org/ja/3/library/tkinter.html) をインストールしている必要があります。
+[tkinter](https://docs.python.org/ja/3/library/tkinter.html) をインストールしている環境を用意する必要があります。
 
 ```
 pip install tkinter
